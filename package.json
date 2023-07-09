@@ -7,5 +7,7 @@
   },
     "scripts": {
     "start": "node app.js"
-  }
+  },
+  "buildDirectory": "./public",
+  "publishDirectory": "./public"
 }
